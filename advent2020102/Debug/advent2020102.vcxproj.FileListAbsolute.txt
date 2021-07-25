@@ -1,0 +1,2 @@
+C:\Users\seosi\source\repos\advent2020102\Debug\advent2020102.exe
+C:\Users\seosi\source\repos\advent2020102\Debug\advent2020102.pdb
